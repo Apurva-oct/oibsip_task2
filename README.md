@@ -24,6 +24,11 @@ Having a web browser, code editor and git.
 Just fork it and you are good to go.
 
 
+## Link to the site
+   https://apurva-oct.github.io/oibsip_task2/
+   
+   
+
 ## Authors
 
 👤 **Apurva Gupta**
